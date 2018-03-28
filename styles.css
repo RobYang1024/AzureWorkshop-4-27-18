@@ -1,0 +1,34 @@
+div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.story {
+  font-size: 11;
+  font-family: monospace;
+}
+
+#tahoma {
+  font-family: "Tahoma";
+}
+
+#italics {
+  font-size: 14;
+  font-style: italic;
+}
+
+#random_num {
+  font-size: 50;
+  font-style: bold;
+  font-family: monospace;
+}
+
+#whale {
+  color: white;
+  font-size: 25;
+  font-family: monospace;
+}
+
+.footer {
+  font-size: 10;
+}
